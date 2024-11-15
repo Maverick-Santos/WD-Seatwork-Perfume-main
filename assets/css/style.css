@@ -4,38 +4,21 @@
     box-sizing: border-box;
     font-family: 'Arial', sans-serif;
 }
-
-body {
-    background-color: #f7f7f7;
-    color: #333;
+img{
+    margin-top: 10px;
+    width:10% ;
+    opacity: 50%;
+    transition: 1s;
 }
+img:hover{
+    opacity: 100%;
+    transform: scale(120%);
+    transition: 1s;
 
-header {
-    background-color:rgb(73, 24, 24);
-    padding: 20px;
-    color: white;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
-
-header .logo h1 {
-    position: relative;
-    left: 850px;
-    margin: 0;
-}
-
-nav ul {
-    list-style: none;
-    display: flex;
-}
-
-nav ul li {
-    margin-left: 20px;
 }
 
 nav ul li a {
-    color: white;
+    color: black;
     text-decoration: none;
     font-size: 18px;
     padding: 10px;
@@ -47,15 +30,13 @@ nav ul li a:hover {
     border-radius: 5px;
 }
 
-#hero {
-    background-image: url('hero-image.jpg'); /* Replace with an actual image */
+#main {
     background-size: cover;
-    color: rgb(0, 0, 0);
-    padding: 100px 20px;
+    background-color: wheat;
     text-align: center;
 }
 
-#hero .cta-button {
+#main .cta-button {
     display: inline-block;
     background-color: #ff6f61;
     padding: 15px 30px;
@@ -66,7 +47,7 @@ nav ul li a:hover {
     margin-top: 20px;
 }
 
-#hero .cta-button:hover {
+#main .cta-button:hover {
     background-color: #e64a45;
 }
 
