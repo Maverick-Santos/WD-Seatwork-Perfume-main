@@ -106,7 +106,8 @@ footer p {
     justify-content: space-between;
     gap: 20px;
     width: 100%;
-    padding: 20px;
+    position: relative;
+    top: -80px;
 }
 
 
@@ -129,4 +130,19 @@ footer p {
 
 .image-item:hover img {
     transform: scale(1.05);
+}
+
+.text {
+    font-size: 60px;
+    color: black;
+    position: relative;
+    top: -60px;
+}
+.text2 {
+    font-size: 30px;
+    color: black;
+}
+.text3 {
+    font-size: 20px;
+    color: #636363;
 }
