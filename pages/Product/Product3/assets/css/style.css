@@ -91,9 +91,16 @@ footer p {
   cursor: pointer;
   background-color: black;
   color: white;
-  padding: 5px 5px;
-  border-radius: 20%;
+  padding: 10px 15px;
+  text-decoration: none;
+  opacity: 60%;
+  transition: 0.5s;
 
+}
+.back:hover {
+  background-color: black;
+  opacity: 100%;
+  transition: 0.5s;
 }
 .openbtn {
   position: relative;
