@@ -115,7 +115,11 @@ footer p {
     .sidebar {padding-top: 15px;}
     .sidebar a {font-size: 18px;}
   }
-
+  @media screen and (min-height: 450px) {
+    .sidebar {padding-top: 300px;}
+    .sidebar a {font-size: 30px;}
+    .text b {font-size: 80px;}
+  }
 .img2 {
   position: relative;
   left: -30px;

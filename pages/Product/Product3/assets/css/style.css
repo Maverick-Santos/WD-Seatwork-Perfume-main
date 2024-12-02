@@ -133,7 +133,11 @@ footer p {
   .sidebar {padding-top: 300px;}
   .sidebar a {font-size: 30px;}
 }
-
+@media screen and (min-height: 450px) {
+  .sidebar {padding-top: 300px;}
+  .sidebar a {font-size: 30px;}
+  .text b {font-size: 80px;}
+}
 .image-container {
   display: flex;
   justify-content: space-between;

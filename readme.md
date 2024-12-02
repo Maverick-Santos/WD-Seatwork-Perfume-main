@@ -4,32 +4,29 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
-  <!-- TODO: If you want to add logo or banner you can add it here -->
+  <a href="https://github.com/Maverick-Santos/">
     <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    <img src="./pages/img/creed logo.png">
   </a>
-<!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+
+  <h3 align="center">WD-Seatwork-Perfume</h3>
 </div>
-<!-- TODO: Make a short description -->
+
 <div align="center">
-  Short Description. (Optional)
+  Website for a purfume company.
 </div>
 
 <br />
 
 [![wakatime](https://wakatime.com/badge/user/474e236f-4718-4434-8aa0-f744cf4cde7d/project/2142565d-91c4-4a87-b560-dbe57d7021a7.svg)](https://wakatime.com/badge/user/474e236f-4718-4434-8aa0-f744cf4cde7d/project/2142565d-91c4-4a87-b560-dbe57d7021a7)
 
-<!-- TODO: Change the zyx-0314 into your github username  -->
-<!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Seatwork-Perfume-main)
 
 ---
 
 <br />
 <br />
 
-<!-- TODO: If you want to add more layers for your readme -->
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -56,26 +53,16 @@
 ---
 
 ## Overview
-
-<!-- TODO: To be changed -->
-<!-- The following are just sample -->
-Description of the project in details.
-
-Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+- A website for a purfume company.
+- The purpose of this project is for the Finals.
+- My key component in this project is Reflection, reflecting on the project experience and learn to adjust and improve. 
+- The technology used is HTML, CSS, JavaScript, Github, WakaTime and Visal Studio Code.
 
 ### Key Components
-<!-- TODO: List of Key Components -->
-<!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- MultiPage Website
+- Fade in transition
 
 ### Technology
-<!-- TODO: List of Technology Used -->
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
@@ -115,8 +102,12 @@ WD-ProjectName
 ```
 
 ## Resources
-
-<!-- TODO: Add References -->
 | Title | Purpose | Link |
-|-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+
+| Overall Layout | Here is where I get the inspirationof the layout. | https://creedboutique.com/ |
+
+| Navigation | Here is where I get the navigation bar. | https://www.w3schools.com/html/default.asp |
+
+| Images | Here is where I get the products pictures. | https://creedboutique.com/collections/mens-fragrances |
+
+| Video | Here is where I get the video. | https://www.youtube.com/watch?v=d_EKzgNcByw |
