@@ -5,8 +5,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Maverick-Santos/">
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
-    <img src="./pages/img/creed logo.png"width="130" height="100">
+    <img src="./assets/img/Logo.jpg" alt="Nyebe" width="130" height="100">
   </a>
 
   <h3 align="center">WD-Seatwork-Perfume</h3>
@@ -103,6 +102,7 @@ WD-ProjectName
 
 ## Resources
 | Title | Purpose | Link |
+|-|-|-|
 
 | Overall Layout | Here is where I get the inspirationof the layout. | https://creedboutique.com/ |
 
