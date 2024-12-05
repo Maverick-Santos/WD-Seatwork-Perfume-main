@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Maverick-Santos/">
-    <img src="./assets/img/Logo.jpg" alt="Nyebe" width="130" height="100">
+    <img src="./assets/img/Logo-removebg-preview.png" alt="Nyebe" width="130" height="100">
   </a>
 
   <h3 align="center">WD-Seatwork-Perfume</h3>
