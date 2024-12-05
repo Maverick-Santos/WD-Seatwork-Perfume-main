@@ -103,11 +103,7 @@ WD-ProjectName
 ## Resources
 | Title | Purpose | Link |
 |-|-|-|
-
 | Overall Layout | Here is where I get the inspirationof the layout. | https://creedboutique.com/ |
-
 | Navigation | Here is where I get the navigation bar. | https://www.w3schools.com/html/default.asp |
-
 | Images | Here is where I get the products pictures. | https://creedboutique.com/collections/mens-fragrances |
-
 | Video | Here is where I get the video. | https://www.youtube.com/watch?v=d_EKzgNcByw |
